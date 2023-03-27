@@ -7,9 +7,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔍 Люблю искать зависимости в big data<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 В свободное время прокачиваю свои навыки<br></p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📂 Публикую мои учебные проекты
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;и скрипты для решения задач на <a href="https://github.com/Vedomant/CodeKitchen"><img src="https://img.shields.io/badge/-Python-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Мои сертификаты"></a><br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Мои <a href="https://github.com/Vedomant/certificates"><img src="https://img.shields.io/badge/-certificates-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Мои сертификаты"></a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📂 Публикую мои учебные <a href="https://github.com/Vedomant/open_data_insights"><img src="https://img.shields.io/badge/-проекты-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Мои проекты"></a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;и скрипты для решения задач на <a href="https://github.com/Vedomant/CodeKitchen"><img src="https://img.shields.io/badge/-Python-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Мои скрипты"></a><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Мои <a href="https://github.com/Vedomant/certificates"><img src="https://img.shields.io/badge/-сертификаты-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Мои сертификаты"></a></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mailbox: Как можно со мной связаться:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wa.me/89165572636"><img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"></a>
