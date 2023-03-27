@@ -7,7 +7,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔍 Люблю искать зависимости в big data<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 В свободное время прокачиваю свои навыки<br></p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📂 Публикую мои учебные проекты<br><br><br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📂 Публикую мои учебные проекты
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;и скрипты на <a href="https://github.com/Vedomant/CodeKitchen"><img src="https://img.shields.io/badge/-Python-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Мои сертификаты"></a><br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Мои <a href="https://github.com/Vedomant/certificates"><img src="https://img.shields.io/badge/-certificates-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Мои сертификаты"></a></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mailbox: Как можно со мной связаться:<br>
