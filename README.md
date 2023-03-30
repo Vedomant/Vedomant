@@ -17,7 +17,7 @@
 &nbsp;<a href="https://www.linkedin.com/in/евгений-зяблов-63baa887/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
 &nbsp;<a href="https://stepik.org/users/555827482"><img src="https://img.shields.io/badge/-Stepik-black?style=flat&logo=STMicroelectronics&logoColor=white" alt="Stepik Badge"></a><br><br><br><br><br>
 <div align="right" style="margin-bottom: 40px; margin-right: 40px;">
-<img src="https://visitor-badge.glitch.me/badge?page_id=Vedomant.Vedomant&left_color=lightgray&right_color=grey" alt="Счетчик посетителей">
+<img src="https://komarev.com/ghpvc/?username=Vedomant&label=Visitors&style=flat-square&color=blueviolet" alt="Счетчик посетителей">
 </div>
 
 -----------
