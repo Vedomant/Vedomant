@@ -4,7 +4,7 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDMxMzNkODBkZDJjZjBmNDk3N2MxYTA2MDQ0Mjg0M2I3N2Y0YjIwNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="480" align="left">
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Я учусь аналитике данных,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔍 Изучаю данные для выявления связей и выбросов,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔍 Изучаю данные для выявления аномалий,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 В свободное время прокачиваю свои навыки,<br></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📂 Публикую мои учебные <a href="https://github.com/Vedomant/open_data_insights"><img src="https://img.shields.io/badge/-проекты-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Мои проекты"></a>
