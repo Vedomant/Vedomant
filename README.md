@@ -4,12 +4,13 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDMxMzNkODBkZDJjZjBmNDk3N2MxYTA2MDQ0Mjg0M2I3N2Y0YjIwNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="480" align="left">
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Я учусь аналитике данных,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔍 Изучаю данные для выявления аномалий,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 В свободное время прокачиваю свои навыки,<br></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔍 изучаю данные для выявления аномалий,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 в свободное время прокачиваю свои навыки,<br></p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📂 Делюсь моими учебными <a href="https://github.com/Vedomant/open_data_insights"><img src="https://img.shields.io/badge/-проектами-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Мои проекты"></a>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;и скриптами для решения задач на <a href="https://github.com/Vedomant/CodeKitchen"><img src="https://img.shields.io/badge/-Python-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Мои скрипты"></a><br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Мои <a href="https://github.com/Vedomant/certificates"><img src="https://img.shields.io/badge/-сертификаты-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Мои сертификаты"></a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📂 делюсь моими учебными <a href="https://github.com/Vedomant/open_data_insights"><img src="https://img.shields.io/badge/-проектами-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Мои проекты"></a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;и скриптами для решения задач на <a href="https://github.com/Vedomant/CodeKitchen"><img src="https://img.shields.io/badge/-Python-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Мои скрипты">,</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;пишу <a href="https://github.com/Vedomant/data_analytics_cookbook"><img src="https://img.shields.io/badge/-Настольную книгу аналитика-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Настольную книгу аналитика">.</a><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Мои <a href="https://github.com/Vedomant/certificates"><img src="https://img.shields.io/badge/-сертификаты-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Мои сертификаты">.</a></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mailbox: Как можно со мной связаться:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/Vedomant"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"></a>
