@@ -1,7 +1,7 @@
 ### Всем привет 👋
 ----------------
 
-<img src="https://giphy.com/embed/l378c04F2fjeZ7vH2" width="480" height="322" frameBorder="0" align="left">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRlOTkxYjBkMTY5ZDNmNDk1ZGJlZWJhNzY0M2U5ZDkyYjRhNzY4MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l378c04F2fjeZ7vH2/giphy.gif" width="480" height="322" align="left">
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Я учусь аналитике данных,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔍 изучаю данные для выявления аномалий,<br>
