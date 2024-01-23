@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;пишу <a href="https://github.com/Vedomant/data_analytics_cookbook"><img src="https://img.shields.io/badge/-Настольную книгу аналитика-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Настольную книгу аналитика"></a>.<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Мои <a href="https://github.com/Vedomant/certificates"><img src="https://img.shields.io/badge/-сертификаты-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Мои сертификаты"></a>.</p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mailbox: Как можно со мной связаться?<br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Как можно со мной связаться?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/Vedomant"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"></a>
 &nbsp;<a href="https://www.linkedin.com/in/евгений-з-63baa887"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
 &nbsp;<a href="https://stepik.org/users/555827482"><img src="https://img.shields.io/badge/-Stepik-black?style=flat&logo=STMicroelectronics&logoColor=white" alt="Stepik Badge"></a><br><br>
