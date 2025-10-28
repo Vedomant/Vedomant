@@ -52,7 +52,7 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#white)
 
 -------------
-### Deep learning: CV-проекты
+### Deep learning: CV-projects
 
 | **Название** | **Суть проекта** | **Результат** |
 | -------------------- | :--------------------- |:---------------------------|
@@ -62,7 +62,7 @@
 <a href="#ceiling"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
 
 -------------
-### Data analysis проекты
+### Data analysis projects
 
 | **Название** | **Суть проекта** | **Результат** |
 | -------------------- | :--------------------- |:---------------------------|
