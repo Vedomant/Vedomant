@@ -52,13 +52,21 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#white)
 
 -------------
-### Deep learning проекты
-
+### Deep learning: CV-проекты
 
 | **Название** | **Суть проекта** | **Результат** |
 | -------------------- | :--------------------- |:---------------------------|
-| [FireAlarmNet_Project](https://github.com/Vedomant/FireAlarmNet_Project)|Задача построить систему автоматического обнаружения пожаров на изображениях. В основе решения лежит сверточная нейронная сеть с использованием предобученной архитектуры MobileNetV2|Успешно реализована модель и обучение, работа была выпускным проектом на курсе [Deep Learning School (МФТИ)](https://talent.kruzhok.org/user/696585)|
+| [E-commerce project](https://github.com/Vedomant/karpov_courses/blob/730b0b7f48784dc877d311401b63f14ce88f55f0/data/Project%20E-commerce.ipynb)|Задача построить систему автоматического обнаружения пожаров на изображениях. В основе решения лежит сверточная нейронная сеть с использованием предобученной архитектуры MobileNetV2|Успешно реализована модель и обучение, работа была выпускным проектом на курсе [Deep Learning School (МФТИ)](https://talent.kruzhok.org/user/696585)|
+
 
 <a href="#ceiling"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
 
 -------------
+### Data analysis проекты
+
+| **Название** | **Суть проекта** | **Результат** |
+| -------------------- | :--------------------- |:---------------------------|
+| [FireAlarmNet_Project](https://github.com/Vedomant/FireAlarmNet_Project)|Получить данные магазина E-commerce; определить метрики продукта; провести когортный анализ пользователей; построить RFM-сегментацию пользователей|Задача выполнена оформлены выводы и рекомендации отделу продаж по результатам анализа. Часть выпускного проекта курса Data Analyst от [karpov.curses](https://karpov.courses/analytics)|
+
+
+<a href="#ceiling"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
