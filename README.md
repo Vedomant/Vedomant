@@ -36,8 +36,3 @@
 </div>
 
 -------------
-
-### :fire: My Stats:
-
-| <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedomant&hide_border=true" alt="stats" /></a> | <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Vedomant&theme=flat&row=2&column=3&margin-w=11.47&margin-h=11.47" /></a></a> |
-| ------------- | ------------- |
