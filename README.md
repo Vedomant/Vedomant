@@ -51,3 +51,13 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#white)
 
 -------------
+### Deep learning проекты
+
+
+| **Название** | **Суть проекта** | **Результат** |
+| -------------------- | :--------------------- |:---------------------------|
+| [FireAlarmNet_Project](https://github.com/Vedomant/FireAlarmNet_Project)|Задача построить систему автоматического обнаружения пожаров на изображениях. В основе решения лежит сверточная нейронная сеть с использованием предобученной архитектуры MobileNetV2|Успешно реализована модель и обучение, работа была выпускным проектом на курсе [Deep Learning School (МФТИ)](https://talent.kruzhok.org/user/696585)|
+
+<a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
+
+-------------
