@@ -9,7 +9,7 @@
     <p>👨‍💻 Я аналитик данных,<br>
     📚 в свободное время прокачиваю свои навыки,<br>
     🔍 также активно погружаюсь в DS.<br><br>
-    Мой путь: 
+    Мой путь в DA/ML/DL: 
     <a href="https://github.com/Vedomant/certificates"><img src="https://img.shields.io/badge/-завершенные курсы-9cf?style=flat&logo=Checkmarx&logoColor=white" alt="Мои сертификаты"></a>.<br><br>
     Как можно со мной связаться?<br>
     <a href="https://t.me/Vedomant"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"></a>
