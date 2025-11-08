@@ -15,6 +15,7 @@
     <a href="https://t.me/Vedomant"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"></a>
     <a href="https://www.linkedin.com/in/евгений-з-63baa887"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
     <a href="https://stepik.org/users/555827482"><img src="https://img.shields.io/badge/-Stepik-black?style=flat&logo=STMicroelectronics&logoColor=white" alt="Stepik Badge"></a>
+    <a href="https://www.kaggle.com/vedomant"><img src="https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle Badge"></a>
     </p>
     <img src="https://komarev.com/ghpvc/?username=Vedomant&label=Visitors&style=flat-square&color=blueviolet" alt="Счетчик посетителей">
   </div>
