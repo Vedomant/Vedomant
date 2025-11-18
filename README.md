@@ -2,8 +2,8 @@
 ### Всем привет 👋
 ----------------
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRlOTkxYjBkMTY5ZDNmNDk1ZGJlZWJhNzY0M2U5ZDkyYjRhNzY4MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l378c04F2fjeZ7vH2/giphy.gif" width="350" align="left" style="margin-right: 30px;">
+<div>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRlOTkxYjBkMTY5ZDNmNDk1ZGJlZWJhNzY0M2U5ZDkyYjRhNzY4MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l378c04F2fjeZ7vH2/giphy.gif" width="350" align="left">
   
   <div>
     <p>👨‍💻 Я аналитик данных,<br>
@@ -18,8 +18,8 @@
     <a href="https://www.linkedin.com/in/евгений-з-63baa887"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
     <a href="https://stepik.org/users/555827482"><img src="https://img.shields.io/badge/-Stepik-black?style=flat&logo=STMicroelectronics&logoColor=white" alt="Stepik Badge"></a>
     <a href="https://www.kaggle.com/vedomant"><img src="https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle Badge"></a>
+    <img src="https://komarev.com/ghpvc/?username=Vedomant&label=Visitors&style=flat-square&color=blueviolet" alt="Счетчик посетителей" align="right">
     </p>
-    <img src="https://komarev.com/ghpvc/?username=Vedomant&label=Visitors&style=flat-square&color=blueviolet" alt="Счетчик посетителей">
   </div>
 </div>
 
